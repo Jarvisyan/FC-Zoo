@@ -1,4 +1,4 @@
-# Federated clustering
+# 1. Federated clustering
 
 Federated clustering (FC) plays a crucial role in resolving the challenge of clustering non-IID data across devices and organizations (i.e. clients) by leveraging distributed data processing and privacy-preserving techniques, enhancing both efficiency and security.
 
@@ -6,10 +6,10 @@ Although the field holds considerable importance, it has not yet garnered widesp
 
 This repository will be regularly maintained with updates. We are looking forward to any comments or discussions on this topic!
 
-# FC Zoo
+# 2. FC Zoo
 FC, as an extension of centralized clustering, naturally suggests an algorithm design approach that extends the methodologies of centralized clustering. The summarized extensions are outlined below.
 
-### Shallow FC
+### 2.1 Shallow FC
   
 <details>
 <summary> k-means extensions  </summary>
@@ -57,9 +57,6 @@ FC, as an extension of centralized clustering, naturally suggests an algorithm d
 |    Title    |  Publication  | Year     | Code |
 |  :---------  | :------      | :------  | :------ | 
 |Federated Matrix Factorization: Algorithm Design and Application to Data Clustering | IEEE Transactions on Signal Processing | 2022 | https://github.com/wshuai317/FedMF |
-
-|Secure Federated Clustering | arxiv | 2022 | - |
-|Secure Federated Clustering | arxiv | 2022 | - |
 </details>
 
 
@@ -72,7 +69,7 @@ FC, as an extension of centralized clustering, naturally suggests an algorithm d
 </details>
 
 
-### Deep FC
+### 2.2. Deep FC
 <details>
 <summary> k-means extensions  </summary>
 
